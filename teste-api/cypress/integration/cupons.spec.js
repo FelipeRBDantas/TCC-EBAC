@@ -23,7 +23,7 @@ describe('Testes da Funcionalidade Cupons', () => {
         });
     });
 
-    it.only('Deve cadastrar um cupom com sucesso', () => {
+    it('Deve cadastrar um cupom com sucesso', () => {
         let cuponsPage = CupomPagePage.inserirCupomFaker();
 
         cy.cadastrarCupom(
