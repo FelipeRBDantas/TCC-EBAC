@@ -17,7 +17,7 @@ Via terminal, rode os seguintes comandos:
 git clone https://github.com/FelipeRBDantas/TCC-EBAC.git
 ```
 ```
-cd testes-api-cy
+cd teste-api
 ```
 
 #### Para instalar as dependencias:
